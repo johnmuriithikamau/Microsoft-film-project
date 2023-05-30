@@ -60,4 +60,4 @@ The recommendations would help the new movie studio succeed by helping them to c
 Leveraging data analysis in the film industry has the potential to revolutionize the way films are produced, marketed, and distributed. By addressing the real-world problem of uncertainty in film production, stakeholders such as production companies, filmmakers, distributors, marketers, investors, and financiers can make more informed decisions and optimize various aspects of the filmmaking process. This can lead to increased profitability, reduced financial risks, and the creation of more engaging and successful films, ultimately benefiting both the industry and the audience.
 
 # slides
- https://www.canva.com/design/DAFkOiFz8qM/jvLXLKgsFaaCQawHbRh5vw/edit?utm_content=DAFkOiFz8qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFkOiFz8qM/jvLXLKgsFaaCQawHbRh5vw/edit?utm_content=DAFkOiFz8qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
